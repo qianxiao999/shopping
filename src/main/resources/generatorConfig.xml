@@ -52,4 +52,5 @@
             enableSelectByExample="false" enableUpdateByExample="false"/>
 
 </context>
+
 </generatorConfiguration>
